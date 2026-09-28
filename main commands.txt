@@ -1,0 +1,6 @@
+npm init -y
+
+
+npm install nodemon -D  
+
+npx node server.js
